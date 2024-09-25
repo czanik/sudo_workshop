@@ -2,7 +2,7 @@
 
 In this repo you can find configuration examples for my ```sudo workshop```.
 
-Slides for the workshop are available at [https://peter.czanik.hu/pts2023/](https://peter.czanik.hu/pts2023/)
+Slides for the workshop are available at [https://peter.czanik.hu/pts2023/](https://peter.czanik.hu/pts2023/) A FreeBSD version of the slides from EuroBSDcon is now also there.
 
 As you might have guessed from the directory name, this workshop was originally prepared for the [Pass the SALT Conference](https://pass-the-salt.org/).
 
